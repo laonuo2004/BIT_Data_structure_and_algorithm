@@ -1,1 +1,5 @@
-# Data_Structure_Learning
+# BIT_Data_structure_and_algorithm
+
+北京理工大学计科23级大二上数据结构与算法设计袁武老师班的编程作业，主要用于保存我写过的代码。
+
+> `H2.广义表反序`没做，`H5.计算工程完成的关键路径`有一个样例过不了，其他题都没问题
