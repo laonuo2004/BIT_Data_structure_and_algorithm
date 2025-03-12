@@ -30,3 +30,19 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+**/x64/*
+
+# Visual Studio Code
+.vscode/
+
+# Other
+*.DS_Store
+*.eddx
+*.png

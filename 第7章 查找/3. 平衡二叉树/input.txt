@@ -1,0 +1,33 @@
+agxnzyimk
+
+Preorder: xigamknzy
+Inorder: agikmnxyz
+Postorder: agknmiyzx
+Tree:
+    z
+        y
+x
+            n
+        m
+            k
+    i
+        g
+            a
+
+----------------------------------------------------------------------------------------------------------------------------
+
+asdfghjkl
+
+Preorder: gdafjhlks
+Inorder: adfghjkls
+Postorder: afdhksljg
+Tree:
+            s
+        l
+            k
+    j
+        h
+g
+        f
+    d
+        a
